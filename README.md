@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am a Backend Developer
 
-<!--
-**Samiaalhammadi/Samiaalhammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![the-office](https://user-images.githubusercontent.com/55395282/230661140-05649792-aa15-4dae-9ce7-35094795afef.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Check out my latest projects
+- 🔷 https://azora.tech/
+- 🏠 https://baby-homes.com/
+- 👶 https://sondos.app/
+- 📸 https://comra.netlify.app/
+- 🐝 https://thebeemkt.com/
+- ✻ https://angelcares.000webhostapp.com/
+- ✻ https://angelcares.000webhostapp.com/second-website
